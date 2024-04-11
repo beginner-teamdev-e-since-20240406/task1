@@ -11,9 +11,9 @@
 - [x] チームのリポジトリにチーム全員が参加済みである
 - [x] チームで課題１の着工日を確定させる
 - [x] チーム全員が課題１の内容を理解し、使用した以下のコマンドの意味を理解する
-- git pull
-- git switch -c 
-- git add .
-- git commit -m
-- git push origin 
-- [ ] チームで完成させる成果物を決定する
+    - git pull
+    - git switch -c 
+    - git add .
+    - git commit -m
+    - git push origin 
+- [x] チームで完成させる成果物を決定する
